@@ -9,7 +9,7 @@ This repository provides core codes, tutorials, and benchmarks from:
 **"Application of Quantum Neural Networks and Variational Quantum Regression in Seismic Inversion"**  
 Zhen Liu\*, Junhua Zhang. China University of Petroleum (East China)
 
-📄 **[Download the paper (PDF)](https://imageevent.aapg.org/portals/26/abstracts/2025/4301526.pdf)**  
+📄 **Download the paper (PDF): [Application of Quantum Neural Networks and Variational Quantum Regression in Seismic.pdf](https://github.com/user-attachments/files/24049105/Application.of.Quantum.Neural.Networks.and.Variational.Quantum.Regression.in.Seismic.pdf)**  
 *(Presented at IMAGE 2025 Conference, Houston, US)*  
 *Supported by the SEG (Society of Exploration Geophysicists) Travel Grant. Grateful thanks to SEG!*
 
@@ -89,6 +89,7 @@ If you use this platform or reference the results, please cite:
 We welcome issues, feature requests, pull requests, and discussions!
 See CONTRIBUTING.md (coming soon) for guidelines, or open an issue to start a conversation.
 
-## Pioneering the next generation of quantum geophysical intelligence — join us!
+## Pioneering the n
+ext generation of quantum geophysical intelligence — join us!
 
 **This platform is under active development. Stay tuned!**
