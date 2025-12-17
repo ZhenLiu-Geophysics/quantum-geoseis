@@ -1,4 +1,5 @@
 # quantum-geoseis
+## _(The paper has been published and the code will be released soon.)_
 
 **quantum-geoseis** is an open-source platform for quantum intelligence in seismic inversion and geophysical data science, based on [Qiskit](https://qiskit.org/) and licensed under Apache 2.0.
 
@@ -10,6 +11,7 @@ This repository provides core codes, tutorials, and benchmarks from:
 Zhen Liu\*, Junhua Zhang. China University of Petroleum (East China)
 
 📄 **Download the paper (PDF): [Application of Quantum Neural Networks and Variational Quantum Regression in Seismic.pdf](https://github.com/user-attachments/files/24049105/Application.of.Quantum.Neural.Networks.and.Variational.Quantum.Regression.in.Seismic.pdf)**  
+📄[https://imageevent.aapg.org/portals/26/abstracts/2025/4301526.pdf]  
 *(Presented at IMAGE 2025 Conference, Houston, US)*  
 *Supported by the SEG (Society of Exploration Geophysicists) Travel Grant. Grateful thanks to SEG!*
 
