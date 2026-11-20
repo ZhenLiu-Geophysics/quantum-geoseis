@@ -1,8 +1,6 @@
 # quantum-geoseis
 
-Everyone is welcome to try [Qubit Lab](https://qubit-lab-quantum-chat-2026.lincoln110.chatgpt.site/) online.
-
-## _(The paper has been published and the code will be released soon.)_
+## Everyone is welcome to try [Qubit Lab](https://qubit-lab-quantum-chat-2026.lincoln110.chatgpt.site/) online (An AI based Qiskit program toolkit).
 
 **quantum-geoseis** is an open-source platform for quantum intelligence in seismic inversion and geophysical data science, based on [Qiskit](https://qiskit.org/) and licensed under Apache 2.0.
 
