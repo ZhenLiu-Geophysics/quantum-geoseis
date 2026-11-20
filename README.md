@@ -92,7 +92,6 @@ If you use this platform or reference the results, please cite:
 We welcome issues, feature requests, pull requests, and discussions!
 See CONTRIBUTING.md (coming soon) for guidelines, or open an issue to start a conversation.
 
-## Pioneering the n
-ext generation of quantum geophysical intelligence — join us!
+## Pioneering the next generation of quantum geophysical intelligence — join us!
 
 **This platform is under active development. Stay tuned!**
